@@ -1,0 +1,5 @@
+{
+  "name": "Angular RBAC Dashboard",
+  "description": "A comprehensive Role-Based Access Control (RBAC) application built with Angular. It features user and role management, route guards, and feature-level permissions, all managed through a clean, modern interface.",
+  "requestFramePermissions": []
+}
